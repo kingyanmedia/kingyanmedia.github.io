@@ -180,7 +180,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Kingyan Media">
-            <info compressed="false">https://kingyanmedia.github.io/_repo/addons.xml</info>
+            <info compressed="false">https://raw.githubusercontent.com/kingyanmedia/kingyanmedia.github.io/master/_repo/addons.xml</info>
             <checksum>https://kingyanmedia.github.io/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://kingyanmedia.github.io/_repo/</datadir>
             <hashes>false</hashes>
