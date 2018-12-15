@@ -136,6 +136,26 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
+<addon id="plugin.video.livechannel"
+       name="Live Channel"
+       version="1.0.0"
+       provider-name="Kingyan Media">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live Channels</summary>
+    <language>en</language>
+    <description lang="en">Some of the link is not working.. Will update once I get it..</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.neptune" version="1.4.9" name=" Neptune Rising" provider-name="Mr. Blamo">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
@@ -175,7 +195,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	</extension>
 </addon>
 
-    <addon id="repository.kingyanmedia" name="Kingyan Media" version="1.0.0" provider-name="Kingyan">
+    <addon id="repository.kingyanmedia" name="Kingyan Media" version="1.0.1" provider-name="Kingyan">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>

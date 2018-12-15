@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.kingyanmedia" name="Kingyan Media" version="1.0.1" provider-name="Kingyan">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Kingyan Media">
+            <info compressed="false">https://kingyanmedia.github.io/_repo/addons.xml</info>
+            <checksum>https://kingyanmedia.github.io/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://kingyanmedia.github.io/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Dramas, Series, Movies and Channels</summary>
+            <description>Easier to install Add-ons from here.</description>
+            <platform>all</platform>
+    </extension>
+</addon>
