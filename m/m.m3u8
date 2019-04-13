@@ -1,3 +1,2 @@
-#EXTM3U
-#EXTINF:0,001
+#EXTINF:-1, tvg-logo="",TV1 
 http://stream76.mypadtv.com/mypadtv/tv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDY6MjM6MzUgQU0maGFzaF92YWx1ZT1WanFyTjQ0em1YMFVWcTJ0bGJyYXJnPT0mdmFsaWRtaW51dGVzPTImaWQ9NDIwM3w1NXxsaXZlfG15aXB0djRrfDE1NTUxMzY2MTV8MjExLjI0LjEwNS44Ng=
