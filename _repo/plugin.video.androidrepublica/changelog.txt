@@ -1,0 +1,34 @@
+
+[B]Version 6.0.0[/B]
+1. Added jsunpack and unwise libraries
+2. Added Rijndael crypto library
+3. Added Widevine DRM support for MPEG-DASH streams
+4. Added RSA Labs Password-Based Key Derivation Function 2
+5. Fix Bug
+  
+[B]Version 5.0.0[/B]
+1.Input pin lock - suke-suke je
+
+[B]Version 4.0.0[/B]
+1.Change to resolveurl
+2.Icon and Fanart rework
+
+[B]Version 3.2.0[/B]
+1.Fix Live TV Parse - Not display on Kodi v16 
+2.Add Setting Display
+
+[B]Version 3.1.0[/B]
+1.Fix Live TV not playing in 
+2.Added source stability
+
+[B]Version 3.0.0[/B]
+1.Fix bug
+2.Change Base Addon
+
+[B]Version 2.0.0[/B]
+1.Fix bug
+2.Reroute Source
+3.Change Fanart
+
+[B]Version 1.0.0[/B]
+Initial release
